@@ -23,10 +23,10 @@ Codenrock New Year ML. Battle - 21 место
 
 | Название проекта        | Источник данных           | Описание  |
 | ------------- |:-------------:| -----|
-| [Сегментация сцены]https://github.com/petrov-pa/Study_projects/tree/main/Image%20segmentation      | Kaggle, Стэнфорд | Обучить нейронную сеть для семантического понимания сцены |
-| [Поиск мошеннических операций]https://github.com/petrov-pa/Study_projects/tree/main/Autoencoder      | УИИ | Поиск мошеннических банковских операций при помощи автокодировщика  |
-| [Классификация участников чата]https://github.com/petrov-pa/Study_projects/tree/main/Chat%20classification      | Чат WhatsApp | Классификация человека по написанному сообщению в чате  |
-| [Генерация изображений]https://github.com/petrov-pa/Study_projects/tree/main/GAN      | УИИ | Генерация изображения самолета по маске |
-| [Рекламные баннеры]https://github.com/petrov-pa/Study_projects/tree/main/Advertising%20banners      | Coursera | Международное круизное агентство Carnival Cruise Line решило себя разрекламировать с помощью баннеров. Чтобы протестировать, велика ли от таких баннеров польза, их будет размещено всего 6 штук по всему миру. Задача выбрать 6 таких локаций для размещения, чтобы польза была большой и агентство продолжило с вами сотрудничать |
-| [Анализ данных в задаче кредитного скоринга]https://github.com/petrov-pa/Study_projects/tree/main/Credit%20scoring      | Coursera | Проверка несколько статистических гипотез на данных о кредитных историях клиентов одного из банков |
-| [Прогнозирование зарплаты]https://github.com/petrov-pa/Study_projects/tree/main/Forecasting%20salaries      | Coursera | Прогнозирование уровня средней зарплаты в России при помощи модели SARIMAX |
+| [Сегментация сцены](https://github.com/petrov-pa/Study_projects/tree/main/Image%20segmentation)      | Kaggle, Стэнфорд | Обучить нейронную сеть для семантического понимания сцены |
+| [Поиск мошеннических операций](https://github.com/petrov-pa/Study_projects/tree/main/Autoencoder)      | УИИ | Поиск мошеннических банковских операций при помощи автокодировщика  |
+| [Классификация участников чата](https://github.com/petrov-pa/Study_projects/tree/main/Chat%20classification)      | Чат WhatsApp | Классификация человека по написанному сообщению в чате  |
+| [Генерация изображений](https://github.com/petrov-pa/Study_projects/tree/main/GAN)      | УИИ | Генерация изображения самолета по маске |
+| [Рекламные баннеры](https://github.com/petrov-pa/Study_projects/tree/main/Advertising%20banners)      | Coursera | Международное круизное агентство Carnival Cruise Line решило себя разрекламировать с помощью баннеров. Чтобы протестировать, велика ли от таких баннеров польза, их будет размещено всего 6 штук по всему миру. Задача выбрать 6 таких локаций для размещения, чтобы польза была большой и агентство продолжило с вами сотрудничать |
+| [Анализ данных в задаче кредитного скоринга](https://github.com/petrov-pa/Study_projects/tree/main/Credit%20scoring)      | Coursera | Проверка несколько статистических гипотез на данных о кредитных историях клиентов одного из банков |
+| [Прогнозирование зарплаты](https://github.com/petrov-pa/Study_projects/tree/main/Forecasting%20salaries)      | Coursera | Прогнозирование уровня средней зарплаты в России при помощи модели SARIMAX |
