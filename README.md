@@ -31,7 +31,7 @@ Codenrock New Year ML. Battle (классификация изображений
 
 | Название проекта        | Источник данных           | Описание  |
 | ------------- |:-------------:| -----|
-| [Сегментация сцены](https://github.com/petrov-pa/Study_projects/tree/main/Image%20segmentation)      | Kaggle, Стэнфорд | Обучить нейронную сеть для семантического понимания сцены |
+| [Сегментация сцены](https://github.com/petrov-pa/Study_projects/tree/main/Image%20segmentation)      | Kaggle, Стэнфорд | Обучение нейронной сети для семантического понимания сцены |
 | [Поиск мошеннических операций](https://github.com/petrov-pa/Study_projects/tree/main/Autoencoder)      | УИИ | Поиск мошеннических банковских операций при помощи автокодировщика  |
 | [Классификация участников чата](https://github.com/petrov-pa/Study_projects/tree/main/Chat%20classification)      | Чат WhatsApp | Классификация человека по написанному сообщению в чате  |
 | [Генерация изображений](https://github.com/petrov-pa/Study_projects/tree/main/GAN)      | УИИ | Генерация изображения самолета по маске |
